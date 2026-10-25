@@ -37,14 +37,11 @@ Dessa forma, é possível variar tanto a amplitude quanto a velocidade do giro e
 
 ## Diagrama do Projeto
 
-![Diagrama](imagens/diagrama-projeto1.png)
+![Diagrama](Projeto-01---Controle-de-Servo-Motor-com-Potenci-metros
+/Controle de Servo motor com potenciometros.png)
 
 ## Projeto em Funcionamento
 
 ![Funcionamento](imagens/projeto1.gif)
 
-## Estrutura do Projeto
 
-/codigo arduino_servo.ino
-
-/imagens diagrama-projeto1.png projeto1.gif
